@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("K-A-T-A-N-A")
 print
 print "Author   : K-A-T-A-N-A"
 print
